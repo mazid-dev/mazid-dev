@@ -23,8 +23,8 @@
 #### 2. [Laravel Kubernetes with CI/CD](https://github.com/mazid-dev/laravel-kubernetes-devops-pipeline)
 > Docker multi-stage | GitHub Actions CI/CD | Helm | AWS EC2
 
-#### 3. [3-Tier Application Deployment](https://github.com/mazid-dev/3-tier-app-master)
-> Nginx Reverse Proxy | Node.js API | MongoDB | PM2
+#### 3. [Linkly — Production-Grade URL Shortener](https://github.com/mazid-dev/linkly)
+> Node.js + React + PostgreSQL + Redis | Docker + AWS EC2 | GitHub Actions CI/CD | Nginx + SSL | Uptime Kuma
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazid-dev&show_icons=true&theme=dark)
