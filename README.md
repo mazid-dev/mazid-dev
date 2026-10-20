@@ -20,8 +20,8 @@
 #### 1. [Production-Ready Node.js on Kubernetes](https://github.com/mazid-dev/production-ready-nodejs-k8s-helm)
 > 3-node VMware cluster | Helm | HPA | Prometheus & Grafana | NetworkPolicy
 
-#### 2. [Laravel Kubernetes with CI/CD](https://github.com/mazid-dev/laravel-kubernetes-devops-pipeline)
-> Docker multi-stage | GitHub Actions CI/CD | Helm | AWS EC2
+#### 2. [Laravel Kubernetes Deployment](https://github.com/mazid-dev/laravel-kubernetes-deployment)
+> Docker Multi-Stage | Kubernetes | Helm | AWS EC2 | PHP 8.3-FPM | Nginx
 
 #### 3. [Linkly — Production-Grade URL Shortener](https://github.com/mazid-dev/linkly)
 > Node.js + React + PostgreSQL + Redis | Docker + AWS EC2 | GitHub Actions CI/CD | Nginx + SSL | Uptime Kuma
