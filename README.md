@@ -23,8 +23,8 @@
 #### 2. [Laravel Kubernetes Deployment](https://github.com/mazid-dev/laravel-kubernetes-deployment)
 > Docker Multi-Stage | Kubernetes | Helm | AWS EC2 | PHP 8.3-FPM | Nginx
 
-#### 3. [Linkly — Production-Grade URL Shortener](https://github.com/mazid-dev/linkly)
-> Node.js + React + PostgreSQL + Redis | Docker + AWS EC2 | GitHub Actions CI/CD | Nginx + SSL | Uptime Kuma
+#### 3. [Linkly — Production-Grade URL Shortener](https://github.com/mazid-dev/linkly-app)
+> Node.js + React + PostgreSQL + Redis | Docker + AWS EC2 | GitHub Actions CI/CD | Nginx + SSL | Prometheus + Grafana + Uptime Kuma
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazid-dev&show_icons=true&theme=dark)
